@@ -1,0 +1,9 @@
+# This repository is read-only teaching material - nothing here is meant to compile.
+# These entries exist only so an accidental IDE import does not add noise.
+.idea/
+.vscode/
+*.iml
+target/
+build/
+out/
+.DS_Store
